@@ -81,7 +81,7 @@ function LineChart({
         events: {
           load() {
             // eslint-disable-next-line react/no-this-in-sfc
-            this.renderer.image('https://storage.unctad.org/2023-palestine_report/assets/unctad_logo.png', 5, 15, 83, 100).add();
+            this.renderer.image('https://storage.unctad.org/2023-palestine_report/assets/img/unctad_logo.png', 5, 15, 83, 100).add();
           }
         },
         height: chartHeight,
