@@ -18,7 +18,7 @@ function App() {
 
   const cleanData = useCallback((data) => (data.map((el, i) => {
     const values = Object.keys(el).filter(val => val !== 'Name').map(val => Date.UTC(parseInt(val, 10), 0, 1));
-    const labels = Object.values(el).map(val => parseFloat(val)).filter(val => !Number.isNaN(val));
+    const labels = Object.values(el).map(val => parseFloat(val));
     return {
       data: values.map((e, j) => [e, labels[j]]),
       visible: (selectedData === i),
