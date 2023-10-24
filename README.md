@@ -1,4 +1,4 @@
-# 2023-palestine_economy
+# 2023-palestine_report
 
 **Live demo** https://unctad-infovis.github.io/2023-palestine_report/
 
