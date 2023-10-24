@@ -4,7 +4,7 @@
 
 # Source
 
-* [Report on UNCTAD assistance to the Palestinian people: Developments in the economy of the Occupied Palestinian Territory](https://unctad.org/system/files/official-document/tdbex72d2_en.pdf)
+* UNCTAD
 
 ## Rights of usage
 
