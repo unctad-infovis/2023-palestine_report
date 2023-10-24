@@ -203,6 +203,9 @@ function LineChart({
           chartOptions: {
             legend: {
               layout: 'horizontal'
+            },
+            title: {
+              margin: 10,
             }
           },
           condition: {
@@ -226,7 +229,7 @@ function LineChart({
       },
       title: {
         align: 'left',
-        margin: 20,
+        margin: 50,
         widthAdjust: -160,
         style: {
           color: '#000',
