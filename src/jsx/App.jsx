@@ -95,7 +95,7 @@ function App() {
           subtitle="Key indicators, 1995–2022"
           tick_interval={1}
           title="Economy of the Occupied Palestinian Territory"
-          xlabel="Year"
+          xlabel=""
         />
         )}
       </div>
